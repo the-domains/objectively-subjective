@@ -6,9 +6,10 @@ color:
   saturation: 0.770233501913026
   rhythmicContrast: 0.47456776234321296
   brandColors:
-    - '#2C3E50'
-    - '#E74C3C'
-    - '#ECF0F1'
-    - '#3498DB'
-    - '#2980B9'
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
 name: objectively subjective
+title: Hello World.
